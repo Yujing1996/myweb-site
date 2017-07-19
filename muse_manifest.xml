@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="site.com" resolutions="1x" timestamp="1500472540585">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="site.com" resolutions="1x" timestamp="1500473046968">
   <folder name="css">
     <file name="site_global.css" crc="3784784454"/>
     <file name="master_a-master.css" crc="448722241" ref="gouwuche:index:gerenzhongxin:xiangqing:liebiao:list"/>
