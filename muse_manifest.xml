@@ -1,0 +1,67 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="site.com" resolutions="1x" timestamp="1500472540585">
+  <folder name="css">
+    <file name="site_global.css" crc="3784784454"/>
+    <file name="master_a-master.css" crc="448722241" ref="gouwuche:index:gerenzhongxin:xiangqing:liebiao:list"/>
+    <file name="gouwuche.css" crc="3791345858" ref="gouwuche"/>
+    <file name="index.css" crc="246953881" ref="index"/>
+    <file name="gerenzhongxin.css" crc="3791345858" ref="gerenzhongxin"/>
+    <file name="xiangqing.css" crc="3791345858" ref="xiangqing"/>
+    <file name="liebiao.css" crc="3791345858" ref="liebiao"/>
+    <file name="list.css" crc="380655471" ref="list"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:list:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="museutils.js" crc="4216313831" ref="index:list:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="whatinput.js" crc="86476730" ref="index:list:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="museconfig.js" crc="474374037" ref="index:list:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:list"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:list:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="webpro.js" crc="4143865194" ref="index:list"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:list"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:list"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:list"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:list:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:list:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+    <file name="require.js" crc="3951022091" ref="index:list:liebiao:xiangqing:gouwuche:gerenzhongxin"/>
+  </folder>
+  <folder name="images">
+    <file name="1.jpg" crc="4045571107" ref="index"/>
+    <file name="f2387b97495b9ea59b8238dca125984e.jpg" crc="219853609" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6b14c105261598d3a9883ae4a34e35c7.jpg" crc="3942956781" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8d9cf3184c9fd13ca50aa920be3d8a65.jpg" crc="4277994925" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="62bb2c2dadc9f61fab35f8c91498e672.jpg" crc="4124895928" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f126e475eb90cca1be9491776ed1c032-u1482-a-fr.jpg" crc="3813198920" ref="index"/>
+    <file name="d3c162eaf9085090c7f749d2e1620098-u1526-a-fr.jpg" crc="3780484911" ref="index"/>
+    <file name="85fe10138b86e70575eccd7f69cb41cf-u1540-a-fr.jpg" crc="4280323795" ref="index"/>
+    <file name="f126e475eb90cca1be9491776ed1c032.jpg" crc="420553424" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d3c162eaf9085090c7f749d2e1620098.jpg" crc="75196383" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="85fe10138b86e70575eccd7f69cb41cf.jpg" crc="3810288291" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u=2163607550,567383490-fm=26-gp=0.jpg" crc="390714038" ref="list">
+      <caption webpage="list" alt=""/>
+    </file>
+    <file name="u=497450175,3925118436-fm=26-gp=0.jpg" crc="3919402429" ref="list">
+      <caption webpage="list" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="473949706" seo="true" mt="1500472538021" redirect="true"/>
+  <file name="list.html" crc="3924436006" seo="true" mt="1500467577143" redirect="true"/>
+  <file name="liebiao.html" crc="510856690" seo="true" mt="1500467577143" redirect="true"/>
+  <file name="xiangqing.html" crc="4262679397" seo="true" mt="1500467577143" redirect="true"/>
+  <file name="gouwuche.html" crc="4214042982" seo="true" mt="1500467577143" redirect="true"/>
+  <file name="gerenzhongxin.html" crc="4252384232" seo="true" mt="1500467577143" redirect="true"/>
+</manifest>
